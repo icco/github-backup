@@ -3,9 +3,9 @@ GEM
   specs:
     api_cache (0.2.3)
     crack (0.3.2)
-    domain_name (0.5.9)
+    domain_name (0.5.11)
       unf (>= 0.0.5, < 1.0.0)
-    httparty (0.10.2)
+    httparty (0.11.0)
       multi_json (~> 1.0)
       multi_xml (>= 0.5.2)
     mechanize (2.6.0)
