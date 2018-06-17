@@ -1,3 +1,3 @@
 source "http://rubygems.org"
 
-gem "octopi"
+gem "octopi", ">= 0.4.5"
